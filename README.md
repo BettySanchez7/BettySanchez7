@@ -1,7 +1,7 @@
 
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/BettySanchez7/BettySanchez7/blob/main/Untitled design.png" />
+   <img align="center" width="300" src="https://github.com/BettySanchez7/BettySanchez7/blob/main/Untitled design.png" />
    <h3 align="center">¡Holaa 👋! Soy Betty Sánchez 👩🏻‍💻</h3>
 </p>
 
